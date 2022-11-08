@@ -1,0 +1,19 @@
+// Exemplo 01
+x = 2 + 4 - 72 ; // Comentário de uma linha
+24 = y + 2 * 7 ;
+z = x + y * 2 ;
+/* Comentário de
+múltiplas linhas */
+// x = 2 + 4 - 72 ;
+// 24 = y + 2 * 7 ;
+// z = x + y * 2 ;
+/* Comentário bloco uma linha */
+/*
+Outro comentário
+De Múltiplas Linhas
+Para remoção
+*/
+// Exemplo 02
+k + x = z + 42 ;
+24 + y = 75 - 24 + z ;
+
